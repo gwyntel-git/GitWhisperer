@@ -1,3 +1,5 @@
+[![Ask DeepWiki](https://deepwiki.com/badge.svg)](https://deepwiki.com/gwyntel-git/GitWhisperer)
+
 # GitWhisperer: A Protocol for Precise Code Changes
 
 ## Overview
